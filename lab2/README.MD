@@ -80,9 +80,3 @@ Each bit-plane will be displayed as an 8-bit grayscale image.
 Bit-plane 7 (MSB) shows the most significant details and resembles the original image.
 
 Bit-plane 0 (LSB) shows the least significant details, which often appear as random noise.
-
-✍️ Author
-
-Name: Shivansh
-
-Roll No.: BT23ECI011
