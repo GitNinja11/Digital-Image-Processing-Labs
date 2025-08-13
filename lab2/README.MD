@@ -1,6 +1,5 @@
 
-Experiment 2A – Histogram Equalization
-📌 Description
+2A- Histogram Equalization
 
 Histogram equalization is a fundamental technique in image processing used to improve contrast. It works by spreading out the most frequent pixel intensity values, effectively stretching the image's dynamic range.
 
@@ -34,14 +33,8 @@ Bottom-right: Display the uniform histogram of the equalized image.
 
 The output will clearly show the contrast enhancement. The equalized image will have more distinct details in both dark and bright areas. Its histogram will be spread out across the entire range, unlike the original histogram which may have been clustered in one area.
 
-✍️ Author
 
-Name: Shivansh
-
-Roll No.: BT23ECI011
-
-Experiment 2B – Bit Slicing in Digital Image Processing
-📌 Description
+ 2B – Bit Slicing in Digital Image Processing
 
 This experiment demonstrates bit-plane slicing on a grayscale image using Python with libraries like OpenCV and Matplotlib. Bit slicing is a technique used to analyze specific bits of pixel intensity values, which helps in image compression, enhancement, and feature extraction.
 
@@ -80,3 +73,4 @@ Each bit-plane will be displayed as an 8-bit grayscale image.
 Bit-plane 7 (MSB) shows the most significant details and resembles the original image.
 
 Bit-plane 0 (LSB) shows the least significant details, which often appear as random noise.
+
