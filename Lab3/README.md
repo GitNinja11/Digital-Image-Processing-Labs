@@ -121,6 +121,3 @@ python shannon_fano.py
 * For color images (RGB), the algorithm needs to be applied on each channel separately.
 * Huffman guarantees optimal prefix codes, while Shannon–Fano does not.
 
-
-
-Would you like me to also add a **side-by-side compression comparison chart** (Huffman vs Shannon–Fano ratio) in the README, using matplotlib output screenshots?
